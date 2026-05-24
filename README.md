@@ -104,26 +104,6 @@ A detailed PDF report is included in this repository:
 
 📌 `Threat_Assessment_Report.pdf`
 
----
-
-## 📁 Project Structure
-
-```text
-website-threat-assessment-movieboxph/
-│
-├── README.md
-├── Threat_Assessment_Report.pdf
-├── findings.txt
-├── risk_matrix.xlsx
-│
-└── screenshots/
-    ├── whois_lookup.png
-    ├── virustotal_scan.png
-    ├── ipinfo_result.png
-    ├── ssl_analysis.png
-    ├── network_requests.png
-    └── security_headers.png
-```
 
 ---
 
